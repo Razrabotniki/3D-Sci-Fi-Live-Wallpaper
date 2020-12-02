@@ -1,0 +1,2 @@
+# Scy-FyLiveWallpaper
+Privacy policy
