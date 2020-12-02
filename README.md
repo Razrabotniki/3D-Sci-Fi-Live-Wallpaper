@@ -1,4 +1,4 @@
-##                                                                  Privaci policy  
+##                                                                  Privacy policy  
 
 UnixdevRZT built the Scy-Fy Live Wallpaper app as a Commercial app. 
 This SERVICE is provided by UnixdevRZT and is intended for use as is.
@@ -47,4 +47,4 @@ These changes are effective immediately after they are posted on this page.
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
 
-##### Last update 04.12.2020
+###### Last update 04.12.2020
