@@ -1,4 +1,4 @@
-#                                                                Privaci policy # 
+##                                                                  Privaci policy  
 
 UnixdevRZT built the Scy-Fy Live Wallpaper app as a Commercial app. 
 This SERVICE is provided by UnixdevRZT and is intended for use as is.
@@ -16,7 +16,7 @@ The application hasn't an action of registration or login.
 When you report a crash event, you generally provide (a) information you provide us when you contact us for help;
 We usually use the information you provided us to fix the problem.
 The app does use third party services that may collect information used to identify you.
-Link to privacy policy of third party service providers used by the app  (https://www.google.com/policies/privacy/)
+Link to privacy policy of third party service providers used by the app  [1](https://www.google.com/policies/privacy/)
 
 #### Log Data
 
