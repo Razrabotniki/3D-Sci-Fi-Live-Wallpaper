@@ -45,3 +45,6 @@ These changes are effective immediately after they are posted on this page.
 #### Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
+
+##### Last update 04.12.2020
